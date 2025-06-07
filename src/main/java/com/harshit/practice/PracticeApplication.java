@@ -8,6 +8,6 @@ public class PracticeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticeApplication.class, args);
-		System.out.println("Hello World");
+		System.out.println("Hello World! mys first commit!");
 	}
 }
